@@ -32,10 +32,10 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
+| Project Team Name | Access Crusaders |
 | Project Name | xxxxxxxx |
-| Challenge | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Challenge | Discover's Atomic Accessibility Design Challenge |
+| Event Track | Design Thinking |
 
 ## Use Case Abstract
 <!--- Template Instructions  
