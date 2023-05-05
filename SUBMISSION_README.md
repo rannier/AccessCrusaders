@@ -16,12 +16,12 @@
     b) Add the mandatory GitHub Topics.
 --->
  
-# Project Name
+# Focus Finance
 <!--- Template Instructions  
   Each Participating Team will have a unique name. Each Team will create a unique name for their project. Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 --->
 
-## Project Details
+## A solution for ADHD customers to quickly view and understand their account transaction data, in order to make quick financial decisions
 <!--- Template Instructions  
   Provide your team specific details:
 
@@ -33,7 +33,7 @@
 | Event Attribute| Description |
 | --- | --- |
 | Project Team Name | Access Crusaders |
-| Project Name | xxxxxxxx |
+| Project Name | Focus Finance |
 | Challenge | Discover's Atomic Accessibility Design Challenge |
 | Event Track | Design Thinking |
 
