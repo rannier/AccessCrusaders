@@ -16,7 +16,7 @@
     b) Add the mandatory GitHub Topics.
 --->
  
-# Focus Finance
+# Focused Finance
 <!--- Template Instructions  
   Each Participating Team will have a unique name. Each Team will create a unique name for their project. Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 --->
