@@ -60,15 +60,14 @@
 | [Design Thinking Playback Brief](./presentations/playback-brief.ppt)| Supporting development material for team. | 
 | [Concept Playback - Pitch Video](./media/videos/pitch-video.mp4)|  Required for judging. | 
 | [Concept Show-n-Tell Video](./media/videos/demo-video.mp4) | Optional or Required for judging depending on track. | 
-| [Solution Code](./hackproject/README.md) | | Supporting material for judging depending on track.   | 
 
 ## Solution Decisions
 <!--- Template Instructions  
   Optional Section. If the team has documented reasons for any of their business or technical decisions, use this section to  itemize the links to the decision documents using the template in the /decisions folder.  Remove this section if nothing to list.
 ---> 
 
-1. [ADR 01](./decisions/adr-01.md)
-2. [BDR 01](./decisions/bdr-01.md)
+1. [TBD 01](./decisions/adr-01.md)
+2. [TBD 02](./decisions/bdr-01.md)
 
 ## Team Information
 <!--- Template Instructions  
