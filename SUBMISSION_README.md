@@ -75,10 +75,12 @@
   Provide a brief description of your team, how it came to be, etc.
 --->  
 
-Our team members came together because ...
+Our team members came together because each of us has direct experience with a neurodivergent friend of family member, who is often faced with the challenges of information overload.  We felt that there is much more that financial institutions can do to make it easier for neurodivergent users, and felt that this was a way for us to contribute to that effort.
  
 | Name | Organization |
 | --- | --- |
-| [Name](social-url) | ??? |
-| [Name](social-url) | ??? |
+| [Radhika Brahmandam](social-url) | Discover Financial Services |
+| [Thomas Hatz](social-url) | Discover Financial Services |
+| [Shriraj Parikh](social-url) | Discover Financial Services |
+| [Rannier Veloso](social-url) | Discover Financial Services |
 
