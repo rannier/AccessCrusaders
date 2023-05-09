@@ -15,7 +15,6 @@
   Each Participating Team will have a unique name. Each Team will create a unique name for their project. Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 --->
 
-## A solution for ADHD customers to quickly view and understand their account transaction data, in order to make quick financial decisions
 <!--- Template Instructions  
   Provide your team specific details:
 
@@ -27,14 +26,16 @@
 | Event Attribute| Description |
 | --- | --- |
 | Project Team Name | Access Crusaders |
-| Project Name | Focus Finance |
-| Challenge | Discover's Atomic Accessibility Design Challenge |
+| Project Name | Focused Finance |
+| Challenge | 1 - Discover's Atomic Accessibility Design Challenge |
 | Event Track | Design Thinking |
 
-## Use Case Abstract
+## A solution for ADHD customers to quickly view and understand their account transaction data, in order to make quick financial decisions
+
 <!--- Template Instructions  
   Provide a brief description of the use case tackled by the team.
 --->
+
 ## Project Artifacts
 <!--- Template Instructions  
   Complete the table below. Replace URLs where necessary.
@@ -54,7 +55,7 @@
 | Deliverable | Purpose |
 | --- | --- |
 | [Use Case Story](./hackproject/usecase.md) | Supporting material for judges. | 
-| [Visual Collaboration Board URL]() | Supporting development material for team. | 
+| [Visual Collaboration Board URL](https://app.mural.co/t/accesscrusaders8571/m/accesscrusaders8571/1682706390354/27ab0605cdea1e0ea07d931d8ee0b5beb2266773?sender=u9df9cb0a444e550b62f91843) | Supporting development material for team. | 
 | [Visual Collaboration Board Artifacts](./hackproject/media/board) | Supporting development material for team. | 
 | [Design Thinking Playback Brief](./presentations/playback-brief.ppt)| Supporting development material for team. | 
 | [Concept Playback - Pitch Video](./media/videos/pitch-video.mp4)|  Required for judging. | 
