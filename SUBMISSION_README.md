@@ -1,10 +1,4 @@
 <!---  Submission Readme Instructions  
-  Remove the warning below.
---->
-![warning](./challenges/challenge1/usecase/images/misc/warning.png) Before submitting your project repo, modify this README as instructed to meet the expectations of the judges.
-
-
-<!---  Submission Readme Instructions  
   Welcome to the FINOS GAAD Hackathon!
 
   This GitHub Repo represents a template for your project. It represents the central repository of all artifacts produced by your team. This repository will be referenced during the judging activity and after the event has completed.
