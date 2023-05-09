@@ -29,8 +29,8 @@
 | Project Name | Focused Finance |
 | Challenge | 1 - Discover's Atomic Accessibility Design Challenge |
 | Event Track | Design Thinking |
-
-## A solution for ADHD customers to quickly view and understand their account transaction data, in order to make quick financial decisions
+## Abstract
+### A solution for ADHD customers to quickly view and understand their account transaction data, in order to make quick financial decisions
 
 <!--- Template Instructions  
   Provide a brief description of the use case tackled by the team.
