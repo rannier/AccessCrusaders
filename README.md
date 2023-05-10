@@ -16,8 +16,8 @@ A solution for ADHD customers to quickly view and understand their account trans
 | --- | --- |
 | [Use Case Story](./hackproject/usecase.md) | Supporting material for judges. | 
 | [Visual Collaboration Board URL](https://app.mural.co/t/accesscrusaders8571/m/accesscrusaders8571/1682706390354/27ab0605cdea1e0ea07d931d8ee0b5beb2266773) | Supporting development material for team. | 
-| [Visual Collaboration Board Artifacts](./hackproject/media/board) | Supporting development material for team. | 
-| [Design Thinking Pitch Presentation](./presentations/playback-brief.ppt)| Supporting development material for team. | 
+| [Design Solution Mockup](./hackproject/calendar_mockup.JPG) | Supporting development material for team. | 
+| [Pitch Presentation](./hackproject/pitchpowerpoint.pptx)| Supporting development material for team. | 
 | [Concept Playback - Pitch Video](https://github.com/rannier/AccessCrusaders/blob/main/hackproject/Pitch%20Video%20Access%20Crusaders.mp4)|  Required for judging. | 
 
 ## Team Information
