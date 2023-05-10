@@ -7,4 +7,4 @@
 
 ![Figure 1](https://github.com/rannier/AccessCrusaders/blob/main/hackproject/Persona%20-%20ADHD%20User.JPG)
 
-#### Our specific case is an ADHD customer who is managing their monthly expenses with the intent to decide when they're moving savings to checking and vice versa.  This user typically wants to quickly view their financial transactions, understand how much money they have that is discretionary, and quickly make decisions before becoming overwhelmed and distracted by other elements of their bank’s portal.
+#### The figure above shows the typical user and the type of information they are accessing through their financial institution.  Our specific case is an ADHD customer who is managing their monthly expenses with the intent to decide when they're moving savings to checking and vice versa.  This user typically wants to quickly view their financial transactions, understand how much money they have that is discretionary, and quickly make decisions before becoming overwhelmed and distracted by other elements of their bank’s portal.
