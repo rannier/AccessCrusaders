@@ -77,7 +77,7 @@ Our team members came together because each of us has direct experience with a n
  
 | Name | Organization |
 | --- | --- |
-| [Radhika Brahmandam](social-url) | Discover Financial Services |
+| [Radhika Brahmandam](https://www.linkedin.com/in/radhika-brahmandam-8b4b7a2/) | Discover Financial Services |
 | [Thomas Hatz](social-url) | Discover Financial Services |
 | [Shriraj Parikh](social-url) | Discover Financial Services |
 | [Rannier Veloso](social-url) | Discover Financial Services |
