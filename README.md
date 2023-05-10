@@ -60,25 +60,15 @@
 | [Design Thinking Pitch Presentation](./presentations/playback-brief.ppt)| Supporting development material for team. | 
 | [Concept Playback - Pitch Video](https://github.com/rannier/AccessCrusaders/blob/main/hackproject/Pitch%20Video%20Access%20Crusaders.mp4)|  Required for judging. | 
 
-## Solution Decisions
-<!--- Template Instructions  
-  Optional Section. If the team has documented reasons for any of their business or technical decisions, use this section to  itemize the links to the decision documents using the template in the /decisions folder.  Remove this section if nothing to list.
----> 
-
-1. [TBD 01](./decisions/adr-01.md)
-2. [TBD 02](./decisions/bdr-01.md)
 
 ## Team Information
-<!--- Template Instructions  
-  Provide a brief description of your team, how it came to be, etc.
---->  
 
 Our team members came together because each of us has direct experience with a neurodivergent friend of family member, who is often faced with the challenges of information overload.  We felt that there is much more that financial institutions can do to make it easier for neurodivergent users, and felt that this was a way for us to contribute to that effort.
  
 | Name | Organization |
 | --- | --- |
 | [Radhika Brahmandam](https://www.linkedin.com/in/radhika-brahmandam-8b4b7a2/) | Discover Financial Services |
-| [Thomas Hatz](social-url) | Discover Financial Services |
-| [Shriraj Parikh](social-url) | Discover Financial Services |
-| [Rannier Veloso](social-url) | Discover Financial Services |
+| [Thomas Hatz](https://www.linkedin.com/in/thomashatz/) | Discover Financial Services |
+| [Shriraj Parikh](https://www.linkedin.com/in/shriraj/) | Discover Financial Services |
+| [Rannier Veloso](https://www.linkedin.com/in/rannier/) | Discover Financial Services |
 
